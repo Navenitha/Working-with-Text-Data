@@ -7,12 +7,12 @@ Tools & Libraries Used
 
 -Python 3.x
 
--Regular Expressions (re module)
+-Regular Expressions 
 
--BeautifulSoup / Requests (for web scraping)
+-BeautifulSoup / Requests 
 
--NLTK / spaCy (for text processing)
+-NLTK / spaCy 
 
--Pandas, NumPy (for data manipulation)
+-Pandas, NumPy 
 
 
